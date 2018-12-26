@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin">
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:padding="20dp"
+        android:visibility="visible">
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dp"
+            android:text="Long Click To Edit Script"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/enterBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView20"
+            android:padding="15dp"
+            android:text="EnterScript"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/leaveBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/textView20"
+            android:padding="15dp"
+            android:text="LeaveScript"
+            android:textSize="20dp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="13dp"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+            <Button
+                android:id="@+id/btn_openface"
+                android:layout_marginLeft="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textSize="20dp"
+                android:text="OpenFace" />
+
+            <Button
+                android:id="@+id/btn_hideface"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:textSize="20dp"
+                android:text="HideFace"
+                android:layout_marginLeft="50dp" />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btn_broadcast"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="15dp"
+            android:textSize="20dp"
+            android:text="Broadcast Event" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#5000EEFF"
+        android:padding="20dp"
+        android:layout_below="@+id/relativeLayout"
+        android:layout_marginTop="100dp"
+        android:layout_alignParentStart="true">
+
+        <ImageButton
+            android:id="@+id/upbtn"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/up"
+            android:text="FORWARD"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/stopbtn"
+            android:layout_width="71dp"
+            android:layout_height="66dp"
+            android:background="#ff0000"
+            android:layout_marginTop="20dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/stop_23_15"
+            android:layout_below="@+id/upbtn"
+            android:layout_alignEnd="@+id/upbtn" />
+
+        <ImageButton
+            android:id="@+id/leftbtn"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_alignTop="@+id/stopbtn"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="-5dp"
+            android:layout_toStartOf="@+id/upbtn"
+            android:scaleType="fitXY"
+            android:src="@drawable/left"
+            android:text="TURN_LEFT"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/rightbtn"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:layout_alignTop="@+id/stopbtn"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="-5dp"
+            android:layout_toEndOf="@+id/downbtn"
+            android:scaleType="fitXY"
+            android:src="@drawable/right"
+            android:text="TURN_RIGHT"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/downbtn"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/down"
+            android:text="BACKWARD"
+            android:textSize="20sp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/leftbtn"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/relativeLayout2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:text="APP ID:"
+            android:textSize="20dp" />
+
+        <EditText
+            android:id="@+id/et_appid"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/btn_open_zba"
+            android:layout_centerHorizontal="true"
+            android:layout_marginRight="15dp" />
+
+        <Button
+            android:id="@+id/btn_open_zba"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/relativeLayout2"
+            android:text="Open Zba" />
+    </LinearLayout>
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/linearLayout2"
+        android:layout_alignParentStart="true"
+        android:id="@+id/linearLayout4">
+
+        <Button
+            android:id="@+id/btnEnableVoiceTrigger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:text="Enable Voice Trigger"
+            android:textSize="16dp" />
+
+        <Button
+            android:id="@+id/btnDisableVoiceTrigger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:paddingLeft="10dp"
+            android:text="Disable Voice Trigger"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout4"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnMotionAvoidanceOpen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/linearLayout4"
+            android:textSize="16dp"
+            android:layout_weight="1"
+            android:text="Motion Avoidance Open" />
+
+        <Button
+            android:id="@+id/btnMotionAvoidanceClose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/linearLayout4"
+            android:textSize="16dp"
+            android:layout_weight="1"
+            android:text="Motion Avoidance Close" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout7"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnCapSensorOpen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/linearLayout4"
+            android:textSize="16dp"
+            android:layout_weight="1"
+            android:text="Cap Sensor Open" />
+
+        <Button
+            android:id="@+id/btnCapSensorClose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/linearLayout4"
+            android:textSize="16dp"
+            android:layout_weight="1"
+            android:text="Cap Sensor Close" />
+    </LinearLayout>
+
+</RelativeLayout>

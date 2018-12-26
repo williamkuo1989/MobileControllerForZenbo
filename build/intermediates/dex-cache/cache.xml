@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d20878a85a2ada1e31b31c6baf8d46f68c7672e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32932c9c70ee48168d2cf996b8c0006685bdce18">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf0d31fb084bc2c2bb46c5d2c815e0ed7fbb46c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\01564742755886c8c391a1ec50fc4a29ed184d44\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4780b5e0a9916ec947f011711f5dd8817252dfaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d2877aabe395c65784d01315e38e5cc2dc3961aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_046d557c5fd890392b327ea8dcf56c7cb0e90495\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\libs\RobotAPI.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d80a5e1bc4140c8017b648babd5dc7ff6dc3432">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\2\RobotAPI_54e7e0fc8e6746825f6477b5910d937e3249d0e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\17fb57fc234e8b44bb35c1d8a57cc3b370a068ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2987e01d422244bebea798b100f2ccfaf7284efc">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc83a1d02c07701446079d297a607d26ff90b65e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff16fdffc08892ac1437d2d2cdf385064f07447">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.apache.http.legacy_b7210e2f2841df72ad03e74919540af1544b1b06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\3dafe7490807736ec5869b96e5ae73432ed42cfb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f9436b85421a3f3af17f330dcf33443dd9bb7f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abd6fb54bf6208b5d727cdc44bc46da230c16817">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f56dcc7a1a7cb1589b052e0edc22bbe68c0d1da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\Java-WebSocket-1.3.0_586e35403f6c264112b7b29fb717db0fadbfda7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\03ba61a478929a1ef291d393273876faf96489a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b06eb8848dd44e2a1316cc5f01853c1229df4752\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\com.intel.aware.csp.datalooper.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="594ee88e6fe20ea13a5857743cb605742b616fbe">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.intel.aware.csp.datalooper_24fad07b2f3ee29e9ad8c7dbbcfefbbde9e094b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\03ba61a478929a1ef291d393273876faf96489a8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b06eb8848dd44e2a1316cc5f01853c1229df4752\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\ffb7e8fb0b98d0faadb4c16a05f36d4340c3af19\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_540f57118fb379bb04dd7ade767b2a231477361a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\estimote-sdk-preview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43cb091f81cfe63e36f452063c55bf0e2c349c0d">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\estimote-sdk-preview_493f689049b67dfcea10faef30005ce20833222b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\03ba61a478929a1ef291d393273876faf96489a8\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9315402ae4c0062828a0f6db698e25ad8d5a4e80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\34aa0d1c5ed0e32efc33237856eec8b34dc004a2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9acbe881326c3d627550cba0a90f12b34e042723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\17fb57fc234e8b44bb35c1d8a57cc3b370a068ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2987e01d422244bebea798b100f2ccfaf7284efc">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc83a1d02c07701446079d297a607d26ff90b65e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ad70160a5b9bbd524afcccd7d656ce14dcf06a56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\975288fc903e948ecefe97b4e1c52962a33fc392\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7d0f58167e83214a323f94302b0ce7648a55690\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\com.google.gson.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f814e0f6622d6808565711fd1b7967d28d77a178">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.gson_21175723691b05677d07cebd6b4ef6c3788b6a8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\accelprocessing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e38e6eae7e44df599ff82afe64b745d23c9ea589">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\accelprocessing_1eddb68666dfb35597fa219209297675548deb7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\53efce7ac6b1d84c50f76359860224ece26287be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaf32a2fe6a2322f7562feffaa3e550cc2c628d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\ffb7e8fb0b98d0faadb4c16a05f36d4340c3af19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34a4151e3283b6276a947cbed5c9a2fe316a6af4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\f74f914aff006ba82cac9ff5139b9fcf1a2802ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5ffba55ccf8455a0e7b13259c285f1a1f63280d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_3ba10bc658f15642dce490009b8f2118d2834c47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_275ee5e085553e08e6cf8e866aaf1aa27be45cb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\clientapi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="71f29e834dc0a020bc97383ccf3f344d0066d3eb">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\clientapi_0dcd8b38c7eba9d605fb43fe3e76b5415f5a1ec6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.gradle\caches\modules-2\files-2.1\com.github.triplet.simpleprovider\simpleprovider\1.1.0\824f0c19c4d9b356c835f5c2c2c5353afe5a2f92\simpleprovider-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="824f0c19c4d9b356c835f5c2c2c5353afe5a2f92">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\release\folders\1000\10\simpleprovider-1.1.0_cc20047515540f9be12418f89973e1610a7391be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d2877aabe395c65784d01315e38e5cc2dc3961aa\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9129051f2df0786147f0c63b3ad949250da90357\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d20878a85a2ada1e31b31c6baf8d46f68c7672e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32932c9c70ee48168d2cf996b8c0006685bdce18">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf0d31fb084bc2c2bb46c5d2c815e0ed7fbb46c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\01564742755886c8c391a1ec50fc4a29ed184d44\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7254a5487a2cf1031d748d881dd4be9cb43eff44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\0f6311d129b6d1878d765b230ebe356c861996eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f845922e684e265ad84a603481826f52d0348dcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d2877aabe395c65784d01315e38e5cc2dc3961aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_046d557c5fd890392b327ea8dcf56c7cb0e90495\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\libs\RobotAPI.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f98a7d021d5abe1e494e26dd82f60335ade18ea">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\release\folders\1000\2\RobotAPI_54e7e0fc8e6746825f6477b5910d937e3249d0e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\accelprocessing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e38e6eae7e44df599ff82afe64b745d23c9ea589">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\accelprocessing_1eddb68666dfb35597fa219209297675548deb7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\ffb7e8fb0b98d0faadb4c16a05f36d4340c3af19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34a4151e3283b6276a947cbed5c9a2fe316a6af4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\01564742755886c8c391a1ec50fc4a29ed184d44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4780b5e0a9916ec947f011711f5dd8817252dfaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abd6fb54bf6208b5d727cdc44bc46da230c16817">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f56dcc7a1a7cb1589b052e0edc22bbe68c0d1da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\3dafe7490807736ec5869b96e5ae73432ed42cfb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f9436b85421a3f3af17f330dcf33443dd9bb7f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\Java-WebSocket-1.3.0_586e35403f6c264112b7b29fb717db0fadbfda7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\ffb7e8fb0b98d0faadb4c16a05f36d4340c3af19\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_540f57118fb379bb04dd7ade767b2a231477361a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\com.intel.aware.csp.datalooper.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="594ee88e6fe20ea13a5857743cb605742b616fbe">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.intel.aware.csp.datalooper_24fad07b2f3ee29e9ad8c7dbbcfefbbde9e094b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\34aa0d1c5ed0e32efc33237856eec8b34dc004a2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_819d418ec8bd10025ce243c06da8b64d3f905848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\34aa0d1c5ed0e32efc33237856eec8b34dc004a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_819d418ec8bd10025ce243c06da8b64d3f905848\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\34aa0d1c5ed0e32efc33237856eec8b34dc004a2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9acbe881326c3d627550cba0a90f12b34e042723\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\03ba61a478929a1ef291d393273876faf96489a8\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9315402ae4c0062828a0f6db698e25ad8d5a4e80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\f74f914aff006ba82cac9ff5139b9fcf1a2802ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5ffba55ccf8455a0e7b13259c285f1a1f63280d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ff16fdffc08892ac1437d2d2cdf385064f07447">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.apache.http.legacy_b7210e2f2841df72ad03e74919540af1544b1b06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\975288fc903e948ecefe97b4e1c52962a33fc392\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7d0f58167e83214a323f94302b0ce7648a55690\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ad70160a5b9bbd524afcccd7d656ce14dcf06a56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\com.google.gson.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f814e0f6622d6808565711fd1b7967d28d77a178">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.gson_21175723691b05677d07cebd6b4ef6c3788b6a8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\clientapi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="71f29e834dc0a020bc97383ccf3f344d0066d3eb">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\clientapi_0dcd8b38c7eba9d605fb43fe3e76b5415f5a1ec6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_275ee5e085553e08e6cf8e866aaf1aa27be45cb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d49808dbda6123145d851423371c51555874071c\output\jars\libs\estimote-sdk-preview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43cb091f81cfe63e36f452063c55bf0e2c349c0d">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\estimote-sdk-preview_493f689049b67dfcea10faef30005ce20833222b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\01564742755886c8c391a1ec50fc4a29ed184d44\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7254a5487a2cf1031d748d881dd4be9cb43eff44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\0f6311d129b6d1878d765b230ebe356c861996eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f845922e684e265ad84a603481826f52d0348dcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_3ba10bc658f15642dce490009b8f2118d2834c47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\d2877aabe395c65784d01315e38e5cc2dc3961aa\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9129051f2df0786147f0c63b3ad949250da90357\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\William_Kuo\.android\build-cache\53efce7ac6b1d84c50f76359860224ece26287be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\William_Kuo\AndroidStudioProjects\fromGitServer\WifiController\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaf32a2fe6a2322f7562feffaa3e550cc2c628d2\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ZenboControl</string>
+
+    <string-array name="faceArray">
+        <item>PROUD(3)</item>
+        <item>EXPECTING(6)</item>
+        <item>CONFIDENT(10)</item>
+        <item>ACTIVE(11)</item>
+        <item>PLEASED(12)</item>
+        <item>SHY(20)</item>
+        <item>SINGING(22)</item>
+    </string-array>
+
+    <string-array name="LEDArray">
+        <item>Static</item>
+        <item>Marquee</item>
+    </string-array>
+    <string name="walking_talking">Walkie Talkie</string>
+    <string name="stage_control">Stage Control</string>
+    <string name="title_activity_broadcast_event">BroadcastEventActivity</string>
+
+    <string name="statusProviderURL">com.asus.zenboControl.statusProvider</string>
+    <string name="motionAvoidanceOpen">Motion obstacle Avoidance is Open</string>
+    <string name="motionAvoidanceClose">Motion obstacle Avoidance is Off</string>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.asus.zenboControl">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_100"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Client.ClientActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/Theme.AppCompat.FullScreen" />
+
+        <service
+            android:name=".Client.ClientService"
+            android:enabled="true" />
+        <service
+            android:name=".Server.ServerService"
+            android:enabled="true" />
+        <service android:name="com.intel.context.core.LocalService" />
+
+        <activity
+            android:name=".Server.ServerActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Server.ServerTalkingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Server.ServerControllerActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden"/>
+        <activity
+            android:name=".Server.ServerSyncTimeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Server.EditScriptActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".Server.AppIdActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Server.BroadcastEventActivity"
+            android:label="@string/title_activity_broadcast_event"
+            android:windowSoftInputMode="stateHidden"
+            android:theme="@style/AppTheme" />	    
+        <provider
+            android:authorities="@string/statusProviderURL"
+            android:name=".Provider.StatusProvider"
+            android:exported="true"
+            android:multiprocess="true"
+            android:writePermission="com.asus.zenboControl.statusProvider.write"/>
+    </application>
+
+    <permission
+        android:name="com.asus.zenboControl.statusProvider.write"
+        android:label="provider pomission write"
+        android:protectionLevel="normal" />
+</manifest>
